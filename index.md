@@ -5,10 +5,14 @@ Im Folgenden informieren wir Sie darüber, um welche Daten es sich dabei handelt
 Personenbezogene Daten sind gemäß Art. 4 Nr. 1 Datenschutzgrundverordnung (DSGVO) alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.
 
 ## 1. Name und Kontaktdaten des für die Verarbeitung Verantwortlichen und des behördlichen Datenschutzbeauftragten
-Diese Datenschutzinformation gilt für die Datenverarbeitung im Rahmen der Nutzung unserer RydeNow-App durch den Verantwortlichen:  Lithat An der Verbindungsbahn 8  20146 Hamburg Deutschland 
+Diese Datenschutzinformation gilt für die Datenverarbeitung im Rahmen der Nutzung unserer RydeNow-App durch den Verantwortlichen:
+Lithat
+An der Verbindungsbahn 8
+20146 Hamburg
+Deutschland 
 lithatcloud@gmail.com
-Unser Datenschutzbeauftragter ist unter der o.g. Anschrift, zu Hd. Datenschutzbeauftragter bzw. lithatcloud@gmail.com erreichbar.
-Sie können sich jederzeit bei Fragen zum Datenschutzrecht oder Ihren Betroffenenrechten direkt an unseren Datenschutzbeauftragten werden.
+
+Unser Datenschutzbeauftragter ist unter der o.g. Anschrift, zu Hd. Datenschutzbeauftragter bzw. lithatcloud@gmail.com erreichbar. Sie können sich jederzeit bei Fragen zum Datenschutzrecht oder Ihren Betroffenenrechten direkt an unseren Datenschutzbeauftragten werden.
  
 ## 2. Berechtigungen der RydeNow-App
 RydeNow benötigt für iOS folgende Berechtigungen:
